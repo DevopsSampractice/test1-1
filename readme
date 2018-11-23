@@ -2,5 +2,10 @@
 line added1
 =======
 line no1
+<<<<<<< Updated upstream
 >>>>>>> 90fbbfdf469a4e9a49fc70eee8c72f676a9cbad6
 line2 from remote
+=======
+>>>>>>> 90fbbfdf469a4e9a49fc70eee8c72f676a9cbad6
+4th line from local
+>>>>>>> Stashed changes
